@@ -1,0 +1,11 @@
+{
+  "name": "Orange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "lite-server"},
+  "author": "Dipankar Nath",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
